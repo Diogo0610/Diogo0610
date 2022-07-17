@@ -23,3 +23,4 @@
 <img align="center" alt="Js" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
+![snake gif](https://github.com/Diogo0610/Diogo0610/blob/output/github-contribution-grid-snake.svg)
