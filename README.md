@@ -1,4 +1,4 @@
-### Olá!! Sou o Diogo Brandon 🤜
+### Olá!! Sou o Diogo Brandon 🤜👍
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-bonilha-brandon/)
 [![Linktr.ee](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/DiogoBBrandon)
